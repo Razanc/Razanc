@@ -39,7 +39,7 @@
   <h3 align="center">Hello everybody!</h3>
 
   <p align="center">
-    project_description
+    Hello, im Razanc. Nice to meet you!
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
