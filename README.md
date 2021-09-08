@@ -32,11 +32,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://avatars.githubusercontent.com/u/88265307?s=400&u=eb42e93046c1645146cb52563fb624b3afd4b396&v=4">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Hello everybody!</h3>
 
   <p align="center">
     project_description
